@@ -1,7 +1,7 @@
 # 📄 Adaptive Text Summarizer (LangChain + Groq + Streamlit)
 
 This is a simple Streamlit app that performs **adaptive text summarization** using **LangChain**, **Groq API**, and **Meta’s LLaMA 3 8B** model. It supports `.txt` and `.pdf` files, dynamically selecting the best summarization strategy based on input size.
-
+### Deployed on Streamlit : https://bvktvgzjeh9biumyxn8b78.streamlit.app/
 ---
 
 ## 🚀 Features
